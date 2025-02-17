@@ -1,0 +1,9 @@
+{application, main,
+ [
+  {vsn, "0.1.0"},
+  {description, "none"},
+  {applications,
+   [kernel,
+    stdlib
+   ]}
+ ]}.
